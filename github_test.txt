@@ -1,2 +1,0 @@
-This is test for github 
-This should be pushed to LHCM github dev branch
